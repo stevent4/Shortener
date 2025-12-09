@@ -1,6 +1,6 @@
-# 🔗 Shortify — URL Shortener Modern
+# 🔗 Shortener — URL Shortener Modern
 
-**Shortify** adalah aplikasi web pemendek URL yang bikin link panjang jadi **lebih pendek**, **lebih rapi**, dan tentu saja **lebih kece**.  
+**Shortener** adalah aplikasi web pemendek URL yang bikin link panjang jadi **lebih pendek**, **lebih rapi**, dan tentu saja **lebih kece**.  
 Cocok buat kamu yang suka berbagi link tapi males lihat URL sepanjang rel kereta. 🚆✨
 
 ---
