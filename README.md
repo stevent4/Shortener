@@ -46,8 +46,8 @@ Cocok buat kamu yang suka berbagi link tapi males lihat URL sepanjang rel kereta
 ## 📦 Instalasi & Penggunaan
 
 ```bash
-git clone https://github.com/username/shortify.git
-cd shortify
+git clone https://github.com/stevent4/shortener.git
+cd shortener
 
 composer install
 npm install && npm run build
